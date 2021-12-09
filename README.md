@@ -36,6 +36,7 @@ Expected to be a line chart, scattered dots
 7. Education Background v.s Salary<br>
 Education background: BS, MS, PHD  (mean/ median of each category salary) <br>
 Expected to be a bar chart
+![image](./test.png)
 
 
 Maybe it can be a 3D chart? Education background vs Working experience vs Salary? 
