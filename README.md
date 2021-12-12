@@ -9,7 +9,7 @@
 
 1.  The composition of income <br>
 Expected to be a pie chart:  Base, Equality(3 or 4 years), bonus, sign-on
-
+![image](./figures/IncomeRatio.png)
 
 2. The composition of jobs <br>
 Expected to be a pie chart: Software Enginner, Machine Learning Engineer, Data Science...
