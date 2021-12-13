@@ -29,10 +29,11 @@ Expected to be a map <br>
 5. Job comparison chart <br>
 Jobs included: Mean of Software Engineer, mean of Data Scientist, mean of Machine Learning. <br>
 Expected to be a bar chart <br>
+![image](./figures/JobSalary.png)
 
 
 6. Working Experience v.s. Salary <br>
-Expected to be a line chart, scattered dots<br>
+Expected to be a line chart or scattered dots<br>
 
 
 7. Education Background v.s Salary<br>
@@ -52,7 +53,7 @@ Maybe it can be a 3D chart? Education background vs Working experience vs Salary
 Excepted to be 3 pie charts with 3 ranges of total income<br>
 - 0 - 200k <br>
 - 200k - 400k <br>
-- 400k +<br>
+- 400k + <br>
 
 
 9. New Grad  return offer vs normal <br>
