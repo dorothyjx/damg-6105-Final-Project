@@ -18,6 +18,7 @@ Expected to be a pie chart: Software Enginner, Machine Learning Engineer, Data S
 
 3. The mean/median/std of total income. <br>
 Expected to be a table 
+![image](./figures/MeanMedianStd.png)
 
 
 4. Area comparison chart <br>
