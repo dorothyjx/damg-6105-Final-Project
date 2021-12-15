@@ -34,6 +34,7 @@ Expected to be a bar chart <br>
 
 6. Working Experience v.s. Salary <br>
 Expected to be a line chart or scattered dots<br>
+![image](./figures/WorkSalary.png)
 
 
 7. Education Background v.s Salary<br>
