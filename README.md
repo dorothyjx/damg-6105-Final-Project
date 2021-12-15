@@ -47,14 +47,12 @@ Another analysis of Total, Base, Bonus, Equity, and Sign-on. <br>
 ![image](./figures/EducationSalary2.png)
 
 
-Maybe it can be a 3D chart? Education background vs Working experience vs Salary? <br>
-
-
 8. Different range of total income may result in different ratio of Base/Bonus/Equity/Sign-on <br>
 Excepted to be 3 pie charts with 3 ranges of total income<br>
 - 0 - 200k <br>
 - 200k - 400k <br>
 - 400k + <br>
+![image](./figures/IncomeRangesRatio.png)
 
 
 9. New Grad  return offer vs normal <br>
@@ -62,7 +60,7 @@ The comparison between return offer and normal. Will the employees who were inte
 Expected to be a bar chart<br>
 
 
-Best offer companies vs lowest offer companies for new grad(top 5 vs bottom 5) <br>
+Best offer companies vs lowest offer companies for **new grad**(top 5 vs bottom 5) <br>
 Expected to be a bar chart<br>
 
 
