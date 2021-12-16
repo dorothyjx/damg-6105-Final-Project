@@ -21,9 +21,9 @@ Expected to be a table <br>
 ![image](./figures/MeanMedianStd.png)
 
 
-4. <mark>Area comparison chart <br>
-Areas included: Bay Area, Seattle, New York, Boston, Texas, Canada, Other Area <br>
-Expected to be a map</mark> <br>
+4. <mark>Area comparison chart</mark> <br>
+<mark>Areas included: Bay Area, Seattle, New York, Boston, Texas, Canada, Other Area</mark> <br>
+<mark>Expected to be a map</mark> <br>
 
 
 5. Job comparison chart <br>
