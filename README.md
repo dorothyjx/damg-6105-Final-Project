@@ -58,7 +58,7 @@ Excepted to be 3 pie charts with 3 ranges of total income<br>
 9. New Grad  return offer vs normal <br>
 The comparison between return offer and normal. Will the employees who were interned in the company be offered a higher salary? <br>
 Expected to be a bar chart<br>
-
+![image](./figures/ReturnOffer.png)
 
 Best offer companies vs lowest offer companies for **new grad**(top 5 vs bottom 5) <br>
 Expected to be a bar chart<br>
