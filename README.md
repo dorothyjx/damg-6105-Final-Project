@@ -21,9 +21,9 @@ Expected to be a table <br>
 ![image](./figures/MeanMedianStd.png)
 
 
-4. Area comparison chart <br>
+4. <mark>Area comparison chart <br>
 Areas included: Bay Area, Seattle, New York, Boston, Texas, Canada, Other Area <br>
-Expected to be a map <br>
+Expected to be a map</mark> <br>
 
 
 5. Job comparison chart <br>
@@ -60,9 +60,11 @@ The comparison between return offer and normal. Will the employees who were inte
 Expected to be a bar chart<br>
 ![image](./figures/ReturnOffer.png)
 
+
 Best offer companies vs lowest offer companies for **new grad**(top 10 vs bottom 10) <br>
 Expected to be a pie chart to see the companies differences<br>
 ![image](./figures/TopAndBottom10.png)
+
 
 10. What are the common traits of the 5% of the highest paid? <br>
 Expected to be key words bubble.<br>
