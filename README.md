@@ -66,5 +66,5 @@ Expected to be a pie chart to see the companies differences<br>
 
 10. What are the common traits of the 5% of the highest paid? <br>
 Expected to be key words bubble.<br>
-
+![image](./figures/CommonTraits.png)
 
