@@ -21,10 +21,12 @@ Expected to be a table <br>
 ![image](./figures/MeanMedianStd.png)
 
 
-4. <mark>Area comparison chart</mark> <br>
-<mark>Areas included: Bay Area, Seattle, New York, Boston, Texas, Canada, Other Area</mark> <br>
-<mark>Expected to be a map</mark> <br>
-
+4. Area comparison chart. <br>
+Areas included: Bay Area, Canada, Chicago, Great Boston Area, Great New York Area, Great Seattle Area, Other Area, Taxas <br>
+Area Income Comparison of New Grads <br>
+![image](./figures/AreasIncomeNewGrad.png) <br>
+Area Income Comparison of Full-Time <br>
+![image](./figures/AreasIncomeFulltime.png)
 
 5. Job comparison chart <br>
 Jobs included: Mean of Software Engineer, mean of Data Scientist, mean of Machine Learning. <br>
